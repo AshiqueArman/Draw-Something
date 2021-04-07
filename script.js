@@ -1,4 +1,4 @@
-<! -- Ashique Arman -->
+//Ashique Arman
 
 const canvas = document.getElementById("canvas");
 const colorSelected = document.getElementById("color");
